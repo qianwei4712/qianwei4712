@@ -1,8 +1,9 @@
-# 2020.9.20 以后转回国内 Gitee 了，告辞~~
+### 菜鸡 Javaer 的招商广告
 
-### 🌱 有兴趣可以逛逛小生的博客
+- 不想当开发，想自己做些产品自己干
+- 但是没什么好点子，还在瞎捣鼓中....
 
- - 自建站：<a href="http://shiva.show/" target="_blank">http://shiva.show</a>
- - Gitee 码云：<a href="https://gitee.com/qianwei4712" target="_blank">https://gitee.com/qianwei4712</a> 
+#### 🌱 目前可以开放的一些信息
 
-Github 仓库可能会几个月来同步一次仓库......随缘
+ - 自建站：<a href="https://www.wywaa.xyz/chest/" target="_blank">https://www.wywaa.xyz/chest/</a>，很少更新了，也就自己搞点小工具用用
+
